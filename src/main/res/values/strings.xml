@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Michaels Application</string>
+    <string name="java_rules">Java Rules!</string>
+    <string name="kotlin_rules">Kotlin Rules!</string>
+</resources>
